@@ -1,4 +1,4 @@
-# Lab 10 - Airflow Practice
+# Lab - Airflow Practice
 
 Get hands-on experience with Apache Airflow.
 
